@@ -16,11 +16,6 @@
 
 #### Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)](https://www.typescriptlang.org/) [![Javascript](https://img.shields.io/badge/javascript-%230175C2.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) [![Next.js](https://img.shields.io/badge/next.js-%230175C2.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
-#### Here is my GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asaduzzaman8316&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asaduzzaman8316&theme=dark&hide_border=false)<br/>
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asaduzzaman8316&theme=dark&hide_border=false&layout=compact)
+
+
